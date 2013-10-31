@@ -1,0 +1,3 @@
+fpga_controller_2013-10-07-A.mcs:
+* Only support 16 miners, each miner have 6 A3255
+* Cgminer: https://github.com/BitSyncom/cgminer/tree/avalon-55nm
